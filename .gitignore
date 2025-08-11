@@ -1,0 +1,11 @@
+.DS_Store
+*.log
+__pycache__/
+*.pyc
+node_modules/
+build/
+dist/
+*.bin
+*.hex
+data/*.csv
+data/*.json
